@@ -1,0 +1,7 @@
+x=0;
+si x < 1 alors
+	lire(y);
+	ecrire(y);
+sinon
+	x=0;
+finsi;

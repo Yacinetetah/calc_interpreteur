@@ -1,0 +1,6 @@
+tantx=3;
+tantque x > 0 
+    lire(a);
+    ecrire(a);
+    x = x - 1;
+fintantque;

@@ -1,0 +1,3 @@
+x = 0;
+faire x = 1
+fintq;

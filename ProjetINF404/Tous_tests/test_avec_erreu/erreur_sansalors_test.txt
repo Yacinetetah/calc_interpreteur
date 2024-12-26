@@ -1,0 +1,6 @@
+x=12;
+si x < 1
+	y=5;
+sinon
+	x=0;
+finsi;

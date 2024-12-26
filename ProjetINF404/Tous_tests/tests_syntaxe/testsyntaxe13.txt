@@ -1,0 +1,6 @@
+a = 3;
+b = 2;
+si a>b  
+		lire(a);
+sinon	a = b;
+finsi;

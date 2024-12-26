@@ -1,0 +1,6 @@
+xabc = 2;
+lire (y);
+tantque y > 0
+  faire
+   y = y - 1;
+fintantque;

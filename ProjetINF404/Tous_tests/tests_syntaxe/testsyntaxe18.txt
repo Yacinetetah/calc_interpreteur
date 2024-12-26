@@ -1,0 +1,7 @@
+a = 8;
+b = 2;
+si a>b alors
+		lire(a);
+	  ecrire(a*2);
+sinon
+	a = b;

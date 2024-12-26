@@ -1,0 +1,4 @@
+ x=0;
+tantque x == 0
+	x = 4;
+fintq;

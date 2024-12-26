@@ -1,0 +1,10 @@
+x=0;
+si x==0 alors
+	tantque x == 0 faire
+		ecrire(x+1);
+		lire(x);
+	fintantque;
+	ecrire(x+1);
+sinon
+	x = x;
+finsi;

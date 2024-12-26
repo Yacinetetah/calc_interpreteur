@@ -1,0 +1,6 @@
+x=7;
+tantque x > 1 faire
+    lire(a);
+    ecrire(a);
+    x = x - 1;
+fintantque;

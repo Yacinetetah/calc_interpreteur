@@ -1,0 +1,7 @@
+x = 8;
+si x != 0 alors
+	x=x/2
+sinon
+	x=x*2;
+finsi;
+ecrire(x);

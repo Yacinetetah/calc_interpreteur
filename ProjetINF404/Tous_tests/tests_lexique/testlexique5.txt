@@ -1,0 +1,5 @@
+si x>y alors
+	a = x+2;
+sinon
+	a = x-2;
+finsi;

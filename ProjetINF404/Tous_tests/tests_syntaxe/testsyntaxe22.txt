@@ -1,0 +1,3 @@
+x=0;
+tantque x != 1 faire
+	x = x + 7;

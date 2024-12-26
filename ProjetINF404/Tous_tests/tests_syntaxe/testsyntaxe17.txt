@@ -1,0 +1,8 @@
+a = 1;
+b = 2;
+si a!=b alors
+		lire(a);
+	  ecrire(a*2);
+sinon
+	a = b;
+finsi;
